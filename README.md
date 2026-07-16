@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Pattan%20Sameera%20Hussainy&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1F33,100:12304A&height=180&section=header&text=Pattan%20Sameera%20Hussainy&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%"/>
 
 **CSBS Undergrad · Machine Learning & Web Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E2DE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameera-hussainy-pattan-76214027a)
-[![GitHub](https://img.shields.io/badge/GitHub-4A00E0?style=flat-square&logo=github&logoColor=white)](https://github.com/sameera-hussainy18)
-![Profile Views](https://komarev.com/ghpvc/?username=sameera-hussainy18&style=flat-square&color=8E2DE2&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12304A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameera-hussainy-pattan-76214027a)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=white)](https://github.com/sameera-hussainy18)
+![Profile Views](https://komarev.com/ghpvc/?username=sameera-hussainy18&style=flat-square&color=E8B830&label=Profile+Views)
 
 </div>
 
@@ -62,7 +62,7 @@ B.Tech Computer Science & Business Systems student at SASTRA Deemed University. 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sameera-hussainy18&theme=radical&hide_border=true&background=00000000" />
+<img src="https://streak-stats.demolab.com/?user=sameera-hussainy18&hide_border=true&background=00000000&ring=E8B830&fire=E8B830&currStreakNum=ffffff&sideNums=E8E8E8&currStreakLabel=E8B830&sideLabels=9BB8CC&dates=6E8CA0" />
 
 </div>
 
@@ -74,6 +74,6 @@ B.Tech Computer Science & Business Systems student at SASTRA Deemed University. 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sameera-hussainy18/sameera-hussainy18/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:12304A,100:0B1F33&height=120&section=footer" width="100%"/>
 
 </div>
